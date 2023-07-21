@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Pengyu Chu # Website name
-baseURL: 'https://pengyuchu.github.io' # Website URL
+title: 'Pengyu Chu'
+baseURL: 'https://pengyuchu.github.io'
 
 ############################
 ## LANGUAGE

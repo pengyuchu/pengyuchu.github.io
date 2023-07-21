@@ -54,12 +54,15 @@
     </div>
     <div class="col-12 col-md-6 order-first {{$order}}">
       {{ $resource := partial "functions/get_featured_image.html" $item }}
-
+      
       {{ with $resource }}
-        {{ $image := .Resize "540x webp" }}
+        {{ $image := . }}
+        {{ if not (in .MediaType "gif") }}
+          {{ $image = .Resize "540x webp" }}
+        {{ end }}
         {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
           <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-              alt="{{ $item.Title }}" loading="lazy">
+              alt="{{ $item.Title }}" class="img-responsive" loading="lazy">
         {{if $do_link}}</a>{{end}}
       {{end}}
     </div>
