@@ -4,7 +4,7 @@ summary: An apple 3D Localization technique using laser-camera triangular princi
 tags:
   - Robotics
   - Research
-date: '2023-03-07T00:00:00Z'
+date: '2023-02-07T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

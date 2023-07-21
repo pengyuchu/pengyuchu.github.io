@@ -3,10 +3,16 @@ title: O2RNet
 summary: A fruit detection work in clustered orchard environments.
 tags:
   - Research
-date: '2022-04-27T00:00:00Z'
+date: '2022-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
+
+image:
+  caption: ''
+  focal_point: ''
+  placement: 2
+  preview_only: false
 
 # links:
 #   - icon: twitter
