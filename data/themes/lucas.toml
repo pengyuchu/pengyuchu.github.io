@@ -1,0 +1,28 @@
+# Theme metadata
+name = "Lucas"
+
+
+# 0f52ba Sapphire
+# 0083cc Olympic
+# 73c2fb Maya
+
+[light]
+  # Primary
+  primary = "#0083cc"
+
+  # Menu
+  menu_primary = "#0083cc"
+  menu_text = "#fff"
+  menu_text_active = "#2962ff"
+  menu_title = "#fff"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
