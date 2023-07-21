@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Pengyu Chu</title>
+    <link>https://pengyuchu.github.io/publication/</link>
+      <atom:link href="https://pengyuchu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pengyuchu.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://pengyuchu.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>O2RNet: Occluder-occludee Relational Network for Robust Apple Detection in Clustered Orchard Environments</title>
+      <link>https://pengyuchu.github.io/publication/sat/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://pengyuchu.github.io/publication/sat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithm Design and Integration for A Robotic Apple Harvesting System</title>
+      <link>https://pengyuchu.github.io/publication/iros/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://pengyuchu.github.io/publication/iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Evaluation of End Effectors for A Vacuum-based Robotic Apple Harvester</title>
+      <link>https://pengyuchu.github.io/publication/asabe/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://pengyuchu.github.io/publication/asabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System Design and Control of An Apple Harvesting Robot</title>
+      <link>https://pengyuchu.github.io/publication/mechatronics/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://pengyuchu.github.io/publication/mechatronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning-based Apple Detection Using A Suppression Mask R-CNN</title>
+      <link>https://pengyuchu.github.io/publication/pr/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://pengyuchu.github.io/publication/pr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
