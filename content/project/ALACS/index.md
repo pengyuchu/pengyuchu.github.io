@@ -1,5 +1,5 @@
 ---
-title: 🅰🅻🅰🅲🆂
+title: 'ALACS: Fruit Localization'
 summary: An apple 3D Localization technique using laser-camera triangular principle.
 tags:
   - Robotics
@@ -20,9 +20,8 @@ links:
   #   icon_pack: fab
   #   name: Follow
   #   url: https://twitter.com/georgecushen
-# url_code: ''
-# url_pdf: ''
-# url_slides: ''
-# url_video: ''
 
+# url_pdf: 'https://elibrary.asabe.org/'
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_video: ''
 ---

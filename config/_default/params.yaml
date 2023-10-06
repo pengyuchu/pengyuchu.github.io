@@ -7,9 +7,9 @@
 
 appearance:
   theme_night: Lucas
-  theme_day: Lucas
+  # theme_day: Lucas
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 

@@ -7,4 +7,6 @@ date: "2023-07-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://github.com/pengyuchu/picA
+
+url_code: https://github.com/pengyuchu/picA
 ---

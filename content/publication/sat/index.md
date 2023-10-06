@@ -68,3 +68,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+![dsfs](sample_1.png)
+<center>Samples outputed by O2RNet.</center>
