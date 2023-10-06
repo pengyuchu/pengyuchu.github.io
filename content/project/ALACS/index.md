@@ -26,5 +26,3 @@ links:
 # url_video: ''
 
 ---
-
-Test.

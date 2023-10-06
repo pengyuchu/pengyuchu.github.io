@@ -148,8 +148,8 @@ sections:
           tag: '*'
         - name: Research
           tag: Research
-        - name: Gamer
-          tag: Gamer
+        - name: Tool
+          tag: tool
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
@@ -166,6 +166,18 @@ sections:
     design:
       columns: '2'
       view: compact
+  # - block: collection
+  #   id: preprints
+  #   content:
+  #     title: Preprints
+  #     filters:
+  #       folders:
+  #         - preprint
+  #   design:
+  #     columns: '2'
+  #     view: compact
+
+
   # - block: markdown
   #   id: gallery
   #   content:

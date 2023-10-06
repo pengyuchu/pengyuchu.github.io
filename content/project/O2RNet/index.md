@@ -1,6 +1,6 @@
 ---
 title: O2RNet
-summary: A fruit detection work in clustered orchard environments.
+summary: An occluder-occludee apple detection work in clustered orchard environments.
 tags:
   - Research
 date: '2022-05-27T00:00:00Z'

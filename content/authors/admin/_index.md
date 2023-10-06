@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:chupengy@msu.edu'
+    link: 'mailto:chupengyu@live.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -83,7 +83,9 @@ highlight_name: true
 I am a Ph.D. candidate advised by [Dr. Zhaojian Li](https://www.egr.msu.edu/rival/) in the [RIVAL](https://www.egr.msu.edu/rival/research.html) group at Michigan State University. My primary focus is to develop adaptive perception algorithms for robotics. Based on this goal, my research resolves around image segmentation and vision-based localization in orchard-grown fruit harvesting, visual reasoning as well as reinforcement learning.  I am being expected to graduate in Dec, 2023. Previously, I obtained my M.S. in Computer Science at Michigan State University and B.S. in Computer Science at Sichuan University.
 
 ## ✨News✨
-* `Jul 2023`  Our work [🅰🅻🅰🅲🆂](#publications) has won :tada: ***Rain Bird Engineering Concept of the Year Award*** :tada: at [ASABE Annual International Meeting](https://www.asabe.org/Awards-Competitions/Major-Awards)! I am also invited as a Speaker at the Machine Vision Session to present our work!
+* `Aug 2023` [PicA](https://github.com/pengyuchu/picA) has been public! [PicA](https://github.com/pengyuchu/picA) is an AI-powered and user-friendly image annotation tool designed to simplify the process of preparing image datasets.
+
+* `Jul 2023`  Our work [🅰🅻🅰🅲🆂](#publications) has won :tada: ***Rain Bird Engineering Concept of the Year Award*** :tada: at [ASABE Annual International Meeting](https://www.asabe.org/Awards-Competitions/Major-Awards/Rain-Bird-Engineering-Concept-of-the-Year-Award)! I am also invited as a Speaker at the Machine Vision Session to present our work!
 
 * `Nov 2020`  Our work **MSU Apple Picking Robot** is featured at [MSUToday](https://msutoday.msu.edu/news/2020/building-soft-robots-to-lend-a-hand?sc_camp=4A8CD0E5C78747BB8DAD90A5961EE528&utm_source=msutoday-email&utm_medium=email&utm_campaign=standard-promo&id=42ee8cc768490d715e0578e7f6fe8b03&utm_content=image9)  :newspaper: !
 
