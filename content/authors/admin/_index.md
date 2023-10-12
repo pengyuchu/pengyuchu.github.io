@@ -28,8 +28,9 @@ bio: My research interests include computer vision, robotics and reinforcement l
 interests:
   - Image Segmentation
   - Visual Reasoning
-  - Robotics
+  - Multimodal Learning
   - Reinforcement Learning
+  - Robotics
 
 # Education to show in About widget
 education:
@@ -75,12 +76,12 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'chupengy@msu.edu'
+email: 'chupengyu@live.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. candidate advised by [Dr. Zhaojian Li](https://www.egr.msu.edu/rival/) in the [RIVAL](https://www.egr.msu.edu/rival/research.html) group at Michigan State University. My primary focus is to develop adaptive perception algorithms for robotics. Based on this goal, my research resolves around image segmentation and vision-based localization in orchard-grown fruit harvesting, visual reasoning as well as reinforcement learning.  I am being expected to graduate in Dec, 2023. Previously, I obtained my M.S. in Computer Science at Michigan State University and B.S. in Computer Science at Sichuan University.
+I am a Ph.D. candidate advised by [Dr. Zhaojian Li](https://www.egr.msu.edu/rival/) in the [RIVAL](https://www.egr.msu.edu/rival/research.html) group at Michigan State University. My primary focus is to develop machine learning models adaptive perception algorithms for robotics. Based on this goal, my research resolves around applied machine learning, image segmentation and vision-based localization in orchard-grown fruit harvesting, visual reasoning as well as reinforcement learning.  I am being expected to graduate in Dec, 2023. Previously, I obtained my M.S. in Computer Science at Michigan State University and B.S. in Computer Science at Sichuan University.
 
 ## ✨News✨
 * `Aug 2023` [PicA](https://github.com/pengyuchu/picA) has been public! [PicA](https://github.com/pengyuchu/picA) is an AI-powered and user-friendly image annotation tool designed to simplify the process of preparing image datasets.
