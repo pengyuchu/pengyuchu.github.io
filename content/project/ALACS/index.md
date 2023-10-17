@@ -1,5 +1,5 @@
 ---
-title: 'ALACS: Fruit Localization'
+title: 'ALACS: Apple Localization'
 summary: An apple 3D Localization technique using laser-camera triangular principle.
 tags:
   - Robotics
