@@ -31,7 +31,7 @@ image:
 # slides: example
 ---
 
-{{< video autoplay="false" loop="false" src="https://github.com/pengyuchu/picA/assets/7012874/0ffdfd30-2dcd-4e91-9dcf-b16dfcc0559d" controls='yes' >}}
+{{< video autoplay="false" loop="false" src="demo.mp4" controls='yes' >}}
 
 
 One of the key challenges faced by harvesting robots is the ability to recognize their surrounding environments. The real-world environment of a tree-grown orchard is inherently complex, making it difficult for harvesting robots to navigate and perform tasks while avoiding obstacles such as branches and foliage, while also accurately identifying and interacting with the fruit.

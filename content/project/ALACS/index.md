@@ -25,7 +25,7 @@ links:
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: ''
 ---
-{{< video autoplay="false" loop="false" src="https://github.com/pengyuchu/picA/assets/7012874/0ffdfd30-2dcd-4e91-9dcf-b16dfcc0559d" controls='yes' >}}
+{{< video autoplay="false" loop="false" src="demo.mp4" controls='yes' >}}
 
 While industry depth cameras (like RealSense RGB-D camera) are compact and capable of providing rich environmental information, its depth measurements are susceptible to variations in lighting conditions and exhibit instability when apples are partially obscured by branches or foliage. These limitations have been identified as the primary culprits behind the inaccuracies in apple localization, a problem that was evident in our previous field tests. In light of these issues, we have developed an Active Laser-Camera Scanning Scheme (ALACS), illustrated in **Fig. 1**, with the aim of improving the precision of apple localization.
 
