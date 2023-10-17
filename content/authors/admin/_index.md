@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pengyu (Lucas) Chu
+title: Pengyu Chu
 
 # Full name (for SEO)
 first_name: Pengyu
