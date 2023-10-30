@@ -28,7 +28,7 @@ bio: My research interests include computer vision, robotics and reinforcement l
 interests:
   - Visual Reasoning
   - Multimodal Deep Learning
-  - Reinforcement Learning
+  - Robotic Perception
   - Embodied AI
 
 # Education to show in About widget
