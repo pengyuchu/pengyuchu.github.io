@@ -85,7 +85,7 @@ I am a Ph.D. candidate advised by [Dr. Zhaojian Li](https://www.egr.msu.edu/riva
 ## ✨News✨
 * `Aug 2023` [PicA](https://github.com/pengyuchu/picA) has been public! [PicA](https://github.com/pengyuchu/picA) is an AI-powered and user-friendly image annotation tool designed to simplify the process of preparing image datasets.
 
-* `Jul 2023`  Our work [ALACS](#project) has won :tada: ***Rain Bird Engineering Concept of the Year Award*** :tada: at [ASABE Annual International Meeting](https://www.asabe.org/Awards-Competitions/Major-Awards/Rain-Bird-Engineering-Concept-of-the-Year-Award)! I am also invited as a Speaker at the Machine Vision Session to present our work!
+* `Jul 2023`  Our work [ALACS](project/alacs) has won :tada: ***Rain Bird Engineering Concept of the Year Award*** :tada: at [ASABE Annual International Meeting](https://www.asabe.org/Awards-Competitions/Major-Awards/Rain-Bird-Engineering-Concept-of-the-Year-Award)! I am also invited as a Speaker at the Machine Vision Session to present our work!
 
 * `Nov 2020`  Our work **MSU Apple Picking Robot** is featured at [MSUToday](https://msutoday.msu.edu/news/2020/building-soft-robots-to-lend-a-hand?sc_camp=4A8CD0E5C78747BB8DAD90A5961EE528&utm_source=msutoday-email&utm_medium=email&utm_campaign=standard-promo&id=42ee8cc768490d715e0578e7f6fe8b03&utm_content=image9)  :newspaper: !
 
