@@ -37,9 +37,9 @@ education:
     - course: Ph.D. in Electrical and Computer Engineering
       institution: Michigan State University
       year: 2023
-    - course: MSc in Computer Science
-      institution: Michigan State University
-      year: 2020
+    # - course: MSc in Computer Science
+    #   institution: Michigan State University
+    #   year: 2020
     - course: BSc in Computer Science
       institution: Sichuan University
       year: 2016
