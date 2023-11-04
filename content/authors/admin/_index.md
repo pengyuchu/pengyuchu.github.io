@@ -36,13 +36,13 @@ education:
   courses:
     - course: Ph.D. in Electrical and Computer Engineering
       institution: Michigan State University
-      year: 2023
+      year: 2018 - 2023
     # - course: MSc in Computer Science
     #   institution: Michigan State University
     #   year: 2020
     - course: BSc in Computer Science
       institution: Sichuan University
-      year: 2016
+      year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,7 +80,7 @@ email: 'chupengyu@live.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. candidate advised by [Dr. Zhaojian Li](https://www.egr.msu.edu/rival/) in the [RIVAL](https://www.egr.msu.edu/rival/research.html) group at Michigan State University. My primary focus is to develop machine learning models adaptive perception algorithms for robotics. Based on this goal, my research resolves around applied machine learning, image segmentation and vision-based localization in orchard-grown fruit harvesting, visual reasoning as well as reinforcement learning.  I am being expected to graduate in Dec, 2023. Previously, I obtained my M.S. in Computer Science at Michigan State University and B.S. in Computer Science at Sichuan University.
+I am a Ph.D. candidate advised by [Dr. Zhaojian Li](https://www.egr.msu.edu/rival/) in the [RIVAL](https://www.egr.msu.edu/rival/research.html) group at Michigan State University. My primary focus is to develop machine learning models adaptive perception algorithms for robotics. Based on this goal, my research resolves around applied machine learning, image segmentation and vision-based localization in orchard-grown fruit harvesting, visual reasoning as well as reinforcement learning.  I am being expected to graduate in Dec, 2023. Previously, I obtained my B.S. in Computer Science at Sichuan University.
 
 ## ✨News✨
 * `Aug 2023` [PicA](https://github.com/pengyuchu/picA) has been public! [PicA](https://github.com/pengyuchu/picA) is an AI-powered and user-friendly image annotation tool designed to simplify the process of preparing image datasets.
