@@ -5,7 +5,7 @@
     <link>https://pengyuchu.github.io/publication-type/2/</link>
       <atom:link href="https://pengyuchu.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pengyuchu.github.io/media/icon_hucdcdbd9455cd6665278b2966438067e6_22916_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,27 +13,47 @@
     </image>
     
     <item>
+      <title>ALACS: Active Laser-Camera Scanning for Robust Apple 3D Localization</title>
+      <link>https://pengyuchu.github.io/preprint/alacs/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://pengyuchu.github.io/preprint/alacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>O2RNet: Occluder-occludee Relational Network for Robust Apple Detection in Clustered Orchard Environments</title>
       <link>https://pengyuchu.github.io/publication/sat/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://pengyuchu.github.io/publication/sat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design and Evaluation of End Effectors for A Vacuum-based Robotic Apple Harvester</title>
-      <link>https://pengyuchu.github.io/publication/asabe/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://pengyuchu.github.io/publication/asabe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>System Design and Control of An Apple Harvesting Robot</title>
-      <link>https://pengyuchu.github.io/publication/mechatronics/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://pengyuchu.github.io/publication/mechatronics/</guid>
-      <description></description>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;dsfs&#34; srcset=&#34;
+               /publication/sat/sample_1_hu2af4e7a0a27c38dee2d283ed9ce7cb13_365424_18792c129ca1b3f6875004193e683824.webp 400w,
+               /publication/sat/sample_1_hu2af4e7a0a27c38dee2d283ed9ce7cb13_365424_f7b16c57c14b3d81e209542ebc401040.webp 760w,
+               /publication/sat/sample_1_hu2af4e7a0a27c38dee2d283ed9ce7cb13_365424_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://pengyuchu.github.io/publication/sat/sample_1_hu2af4e7a0a27c38dee2d283ed9ce7cb13_365424_18792c129ca1b3f6875004193e683824.webp&#34;
+               width=&#34;468&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;center&gt;Samples outputed by O2RNet.&lt;/center&gt;</description>
     </item>
     
     <item>
@@ -41,6 +61,14 @@
       <link>https://pengyuchu.github.io/publication/pr/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://pengyuchu.github.io/publication/pr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Anomalies Detection</title>
+      <link>https://pengyuchu.github.io/preprint/trafficdetection/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://pengyuchu.github.io/preprint/trafficdetection/</guid>
       <description></description>
     </item>
     

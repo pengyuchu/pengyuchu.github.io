@@ -2,15 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pengyuchu.github.io/publication-type/2/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>https://pengyuchu.github.io/project/orchardseg/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pengyuchu.github.io/publication/sat/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>https://pengyuchu.github.io/project/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pengyuchu.github.io/tag/research/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pengyuchu.github.io/tags/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pengyuchu.github.io/publication-type/2/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pengyuchu.github.io/preprint/alacs/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pengyuchu.github.io/preprint/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://pengyuchu.github.io/publication_types/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pengyuchu.github.io/project/annotation_tool/</loc>
+    <lastmod>2023-07-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pengyuchu.github.io/tag/tool/</loc>
+    <lastmod>2023-07-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pengyuchu.github.io/publication/sat/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -19,23 +51,11 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://pengyuchu.github.io/project/alacs/</loc>
-    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pengyuchu.github.io/project/</loc>
-    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pengyuchu.github.io/tag/research/</loc>
-    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://pengyuchu.github.io/tag/robotics/</loc>
-    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pengyuchu.github.io/tags/</loc>
-    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://pengyuchu.github.io/</loc>
@@ -48,26 +68,6 @@
   </url><url>
     <loc>https://pengyuchu.github.io/publication/iros/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pengyuchu.github.io/tag/gamer/</loc>
-    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pengyuchu.github.io/project/rpg-phd/</loc>
-    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pengyuchu.github.io/publication/asabe/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pengyuchu.github.io/project/o2rnet/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pengyuchu.github.io/publication/mechatronics/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://pengyuchu.github.io/publication/pr/</loc>
@@ -100,6 +100,10 @@
   </url><url>
     <loc>https://pengyuchu.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pengyuchu.github.io/preprint/trafficdetection/</loc>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://pengyuchu.github.io/post/writing-technical-content/</loc>

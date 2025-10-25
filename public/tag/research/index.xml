@@ -5,7 +5,7 @@
     <link>https://pengyuchu.github.io/tag/research/</link>
       <atom:link href="https://pengyuchu.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pengyuchu.github.io/media/icon_hucdcdbd9455cd6665278b2966438067e6_22916_512x512_fill_lanczos_center_3.png</url>
       <title>Research</title>
@@ -13,20 +13,257 @@
     </image>
     
     <item>
-      <title>ALACS</title>
-      <link>https://pengyuchu.github.io/project/alacs/</link>
-      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://pengyuchu.github.io/project/alacs/</guid>
-      <description>&lt;p&gt;Test.&lt;/p&gt;
-</description>
+      <title>Orchard Segmentation</title>
+      <link>https://pengyuchu.github.io/project/orchardseg/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://pengyuchu.github.io/project/orchardseg/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://pengyuchu.github.io/project/orchardseg/demo.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;One of the key challenges faced by harvesting robots is the ability to recognize their surrounding environments. The real-world environment of a tree-grown orchard is inherently complex, making it difficult for harvesting robots to navigate and perform tasks while avoiding obstacles such as branches and foliage, while also accurately identifying and interacting with the fruit.&lt;/p&gt;
+&lt;p&gt;In response to this challenge, we developed the panoptic-DeepLab architecture tailored specifically for orchard environments. This architecture enables us to not only identify the main obstacles but also pinpoint the target, which, in our case, is apples for our harvesting robot. Our system segments each scene (see &lt;strong&gt;Fig. 1&lt;/strong&gt;) into five distinct categories: apple, branch, foliage, sky, and ground. This dataset encompasses a wide range of orchard scenes, fruit morphologies, and various environmental conditions, thereby providing a comprehensive representation of real-world fruit detection scenarios.&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-orchard-segmentation-results&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Orchard segmentation results. &#34; srcset=&#34;
+               /project/orchardseg/fig1_huff7e346f333c9f18d9383e2ac67cd328_1204709_78d8a41c1779faedac673e7f7080e89c.webp 400w,
+               /project/orchardseg/fig1_huff7e346f333c9f18d9383e2ac67cd328_1204709_02329bfe885d667ae7548fff7fb0d232.webp 760w,
+               /project/orchardseg/fig1_huff7e346f333c9f18d9383e2ac67cd328_1204709_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://pengyuchu.github.io/project/orchardseg/fig1_huff7e346f333c9f18d9383e2ac67cd328_1204709_78d8a41c1779faedac673e7f7080e89c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1. Orchard segmentation results.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/center&gt;
+&lt;p&gt;Given that branches pose the most significant obstacle, we have further developed skeleton-lead CNNs. This network works to skeletonize the branches (see &lt;strong&gt;Fig. 2&lt;/strong&gt;), effectively transforming them into graph structures, resulting in improved branch segmentation accuracy. As a by-product, the branch graphs can also be leveraged to efficiently construct a 3D representation (see &lt;strong&gt;Fig. 3&lt;/strong&gt;) of the scene using corresponding depth images. This wealth of data serves as crucial input for robotics planning and decision-making processes.&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-branch-graphs-outputed-by-skeleton-lead-cnns&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2. Branch graphs outputed by skeleton-lead CNNs. &#34; srcset=&#34;
+               /project/orchardseg/fig2_hu8da98b8d32f66902b2516447794bc3b2_1999222_31e397222d82f2b1970223774c8590cc.webp 400w,
+               /project/orchardseg/fig2_hu8da98b8d32f66902b2516447794bc3b2_1999222_e006eadff05c3671e82cfd0a85361855.webp 760w,
+               /project/orchardseg/fig2_hu8da98b8d32f66902b2516447794bc3b2_1999222_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://pengyuchu.github.io/project/orchardseg/fig2_hu8da98b8d32f66902b2516447794bc3b2_1999222_31e397222d82f2b1970223774c8590cc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2. Branch graphs outputed by skeleton-lead CNNs.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/center&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-3-3d-representation-of-branches-and-apples&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3. 3D representation of branches and apples.&#34; srcset=&#34;
+               /project/orchardseg/fig3_huc82d7b839fc53b7a5c86bd3cdfedcac6_119016_9af065ae7f8468092197379f1f82bad4.webp 400w,
+               /project/orchardseg/fig3_huc82d7b839fc53b7a5c86bd3cdfedcac6_119016_f40984b2ae9276d1a7b5c1193e0ecaf7.webp 760w,
+               /project/orchardseg/fig3_huc82d7b839fc53b7a5c86bd3cdfedcac6_119016_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://pengyuchu.github.io/project/orchardseg/fig3_huc82d7b839fc53b7a5c86bd3cdfedcac6_119016_9af065ae7f8468092197379f1f82bad4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 3. 3D representation of branches and apples.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/center&gt;</description>
     </item>
     
     <item>
-      <title>O2RNet</title>
-      <link>https://pengyuchu.github.io/project/o2rnet/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://pengyuchu.github.io/project/o2rnet/</guid>
-      <description></description>
+      <title>ALACS: Apple Localization</title>
+      <link>https://pengyuchu.github.io/project/alacs/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://pengyuchu.github.io/project/alacs/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://pengyuchu.github.io/project/alacs/demo.MP4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;While industry depth cameras (like RealSense RGB-D camera) are compact and capable of providing rich environmental information, its depth measurements are susceptible to variations in lighting conditions and exhibit instability when apples are partially obscured by branches or foliage. These limitations have been identified as the primary culprits behind the inaccuracies in apple localization, a problem that was evident in our previous field tests. In light of these issues, we have developed an Active Laser-Camera Scanning Scheme (ALACS), illustrated in &lt;strong&gt;Fig. 1&lt;/strong&gt;, with the aim of improving the precision of apple localization.&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-alacs-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. ALACS device.&#34; srcset=&#34;
+               /project/alacs/fig1_huc82d7b839fc53b7a5c86bd3cdfedcac6_129686_c7203280074eb25747bf902f29a2e570.webp 400w,
+               /project/alacs/fig1_huc82d7b839fc53b7a5c86bd3cdfedcac6_129686_cf42778443a3c799769f05b7c87b123b.webp 760w,
+               /project/alacs/fig1_huc82d7b839fc53b7a5c86bd3cdfedcac6_129686_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://pengyuchu.github.io/project/alacs/fig1_huc82d7b839fc53b7a5c86bd3cdfedcac6_129686_c7203280074eb25747bf902f29a2e570.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;401&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1. ALACS device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/center&gt;
+&lt;p&gt;ALACS employs the &lt;a href=&#34;https://www.movimed.com/knowledgebase/what-is-laser-triangulation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;triangulation technique&lt;/a&gt; (see &lt;strong&gt;Fig. 2&lt;/strong&gt;) to determine 3D positions. We have opted for a laser line as our 2D pattern because of its superior stability and robustness. Thanks to the laser scanning mechanism, we can obtain multiple pattern candidates (see &lt;strong&gt;Fig. 3&lt;/strong&gt;) along with their respective positions, thereby mitigating the risk of inaccuracies, such as occlusions.&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-laser-triangulation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2. Laser Triangulation.&#34; srcset=&#34;
+               /project/alacs/fig2_huc82d7b839fc53b7a5c86bd3cdfedcac6_70082_600c3485fdb0f15593cb3cf92eb31c60.webp 400w,
+               /project/alacs/fig2_huc82d7b839fc53b7a5c86bd3cdfedcac6_70082_a72ce8826a1b4711f4e1983534dd335a.webp 760w,
+               /project/alacs/fig2_huc82d7b839fc53b7a5c86bd3cdfedcac6_70082_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://pengyuchu.github.io/project/alacs/fig2_huc82d7b839fc53b7a5c86bd3cdfedcac6_70082_600c3485fdb0f15593cb3cf92eb31c60.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;596&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2. Laser Triangulation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/center&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-3-2d-patterns-from--laser-scanning&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3. 2D patterns from  laser scanning.&#34; srcset=&#34;
+               /project/alacs/fig3_hu90cd5afd95190588b83495af7621750a_196881_652bc6e5eded10b86c31021fccf540fd.webp 400w,
+               /project/alacs/fig3_hu90cd5afd95190588b83495af7621750a_196881_aeef5f8e14992d62c33705475d07dcbe.webp 760w,
+               /project/alacs/fig3_hu90cd5afd95190588b83495af7621750a_196881_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://pengyuchu.github.io/project/alacs/fig3_hu90cd5afd95190588b83495af7621750a_196881_652bc6e5eded10b86c31021fccf540fd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;168&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 3. 2D patterns from  laser scanning.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/center&gt;
+</description>
     </item>
     
   </channel>
