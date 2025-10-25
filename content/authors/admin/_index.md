@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Senior Research Engineer @ HUAWEI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Michigan State University
+  - name: Ph.D. @ Michigan State University
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,10 @@ bio: My research interests include computer vision, robotics and reinforcement l
 # Interests to show in About widget
 interests:
   - Visual Reasoning
+  - Image/Video Segmentation
   - Multimodal Learning
-  - Robotic Perception
-  - Embodied AI
+  - Reinforcement Learning
+  - VLM/MLLM
 
 # Education to show in About widget
 education:
@@ -70,9 +71,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'chupengyu@live.com'
@@ -80,12 +81,14 @@ email: 'chupengyu@live.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. candidate advised by [Dr. Zhaojian Li](https://www.egr.msu.edu/rival/) in the [RIVAL](https://www.egr.msu.edu/rival/research.html) group at Michigan State University. My primary focus is to develop machine learning models adaptive perception algorithms for robotics. Based on this goal, my research resolves around applied machine learning, image segmentation and vision-based localization in orchard-grown fruit harvesting, visual reasoning as well as reinforcement learning.  I am being expected to graduate in Dec, 2023. Previously, I obtained my B.S. in Computer Science at Sichuan University.
+I am serving as a **Senior Research Engineer** at Riemann Lab of 2012 Laboratories, Huawei, focusing on reviewing cutting-edge research and developing advanced computer vision models for pose estimation, face recognition, and video segmentation.
+
+Previously, I received my Ph.D. from Michigan State University advised by [Dr. Zhaojian Li](https://www.egr.msu.edu/rival/) in the [RIVAL](https://www.egr.msu.edu/rival/research.html) group, and B.S. in Computer Science at Sichuan University. My primary focus is to develop machine learning models adaptive perception algorithms for robotics. Based on this goal, my research resolves around applied machine learning, image segmentation and vision-based localization in orchard-grown fruit harvesting, visual reasoning as well as reinforcement learning. 
 
 ## ✨News✨
-* `Aug 2023` [PicA](https://github.com/pengyuchu/picA) has been public! [PicA](https://github.com/pengyuchu/picA) is an AI-powered and user-friendly image annotation tool designed to simplify the process of preparing image datasets.
+* `April 2025` Our paper [An automated apple harvesting robot-From system design to field evaluation](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22268) published on **Journal of Field Robotics** has been selected as the **Wiley Top Cited Article** and the **Top Viewed Article**.
 
-* `Jul 2023`  Our work [ALACS](project/alacs) has won :tada: ***Rain Bird Engineering Concept of the Year Award*** :tada: at [ASABE Annual International Meeting](https://www.asabe.org/Awards-Competitions/Major-Awards/Rain-Bird-Engineering-Concept-of-the-Year-Award)! I am also invited as a Speaker at the Machine Vision Session to present our work!
+* `Jul 2023`  Our work [ALACS](project/alacs) has won :tada: ***Rain Bird Engineering Concept of the Year Award*** :tada: at [2023 ASABE Annual International Meeting](https://asabe.org)! I am also invited as a Speaker at the Machine Vision Session to present our work!
 
 * `Nov 2020`  Our work **MSU Apple Picking Robot** is featured at [MSUToday](https://msutoday.msu.edu/news/2020/building-soft-robots-to-lend-a-hand?sc_camp=4A8CD0E5C78747BB8DAD90A5961EE528&utm_source=msutoday-email&utm_medium=email&utm_campaign=standard-promo&id=42ee8cc768490d715e0578e7f6fe8b03&utm_content=image9)  :newspaper: !
 

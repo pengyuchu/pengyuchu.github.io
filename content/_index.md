@@ -160,6 +160,7 @@ sections:
     id: publications
     content:
       title: Publications
+      subtitle: Selected Publications
       filters:
         folders:
           - publication
