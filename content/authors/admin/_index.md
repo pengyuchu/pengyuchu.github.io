@@ -81,7 +81,7 @@ email: 'chupengyu@live.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am serving as a **Senior Research Engineer** at Riemann Lab of 2012 Laboratories, Huawei, focusing on reviewing cutting-edge research and developing advanced computer vision models for pose estimation, face recognition, and video segmentation.
+I am serving as a **Senior Research Engineer** at 2012. Laboratories, Huawei, focusing on reviewing cutting-edge research and developing advanced computer vision models for pose estimation, face recognition, and video segmentation.
 
 Previously, I received my Ph.D. from Michigan State University advised by [Dr. Zhaojian Li](https://www.egr.msu.edu/rival/) in the [RIVAL](https://www.egr.msu.edu/rival/research.html) group, and B.S. in Computer Science at Sichuan University. My primary focus is to develop machine learning models adaptive perception algorithms for robotics. Based on this goal, my research resolves around applied machine learning, image segmentation and vision-based localization in orchard-grown fruit harvesting, visual reasoning as well as reinforcement learning. 
 
